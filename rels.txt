@@ -1,0 +1,52 @@
+# relWght = {}
+# acceptedRelations=[]
+# acceptedRelations.append('IsA')
+# relWght['IsA'] = 0.7
+# acceptedRelations.append('CapableOf')
+# relWght['CapableOf'] = 0.5
+# acceptedRelations.append('NotCapableOf')
+# relWght['CapableOf'] = 0.1
+# acceptedRelations.append('UsedFor')
+# relWght['UsedFor'] = 0.6
+# acceptedRelations.append('FormOf')
+# relWght['FormOf'] = 0.6
+# acceptedRelations.append('RelatedTo')
+# relWght['RelatedTo'] = 0.7
+# acceptedRelations.append('Causes')
+# relWght['Causes'] = 0.5
+# acceptedRelations.append('InstanceOf')
+# relWght['InstanceOf'] = 0.7
+# acceptedRelations.append('InheritsFrom')
+# relWght['InheritsFrom'] = 0.4
+# acceptedRelations.append('HasProperty')
+# relWght['HasProperty'] = 0.3
+# acceptedRelations.append('NotHasProperty')
+# relWght['NotHasProperty'] = 0.1
+# acceptedRelations.append('Synonym')
+# acceptedRelations.append('Antonym')
+# acceptedRelations.append('DefinedAs')
+# acceptedRelations.append('Entails')
+# acceptedRelations.append('TranslationOf')
+# acceptedRelations.append('PartOf')
+# acceptedRelations.append('HasA')
+# acceptedRelations.append('AtLocation')
+# acceptedRelations.append('HasSubevent')
+# acceptedRelations.append('HasFirstSubevent')
+# acceptedRelations.append('HasLastSubevent')
+# acceptedRelations.append('HasPrerequisite')
+# acceptedRelations.append('MotivatedByGoal')
+# acceptedRelations.append('ObstructedBy')
+# acceptedRelations.append('Desires')
+# acceptedRelations.append('NotDesires')
+# acceptedRelations.append('CausesDesire')
+# acceptedRelations.append('CreatedBy')
+# acceptedRelations.append('DerivedFrom')
+# acceptedRelations.append('SymbolOf')
+# acceptedRelations.append('MannerOf')
+# acceptedRelations.append('LocatedNear')
+# acceptedRelations.append('MadeOf')
+# acceptedRelations.append('NotMadeOf')
+# acceptedRelations.append('SimilarSize')
+# acceptedRelations.append('PainIntensity')
+# acceptedRelations.append('HasPainCharacter')
+# acceptedRelations.append('ReceivesAction')
